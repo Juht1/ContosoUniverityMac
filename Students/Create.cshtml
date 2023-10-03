@@ -1,0 +1,37 @@
+﻿using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
+using System;
+
+@model StudentsWork.Models.Students
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h4>Students</h4>
+<hr/>
+<div class="rowww"
+    <div class="col-md-4">
+        <form asp-Action="Create">
+            <div asp-validation-summary="ModelOnly" class="Text-Danger"</div>
+            <div class = "form-Group">
+                <label asp-for="LastName" class="Control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <Span asp-validation-for="LastName" class="text-danger"></Span>
+             </div>
+              < div class = "form-Group" >
+                < label asp -for= "FirstMidName" class= "Control-label" ></ label >
+                < input asp -for= "LastName" class= "form-control" />
+                < Span asp - validation -for= "LastName" class= "text-danger" ></ Span >
+             </ div >
+                         <div class = "form-Group">
+                <label asp-for="EnrollmentDate" class="Control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <Span asp-validation-for="LastName" class="text-danger"></Span>
+             </div>
+           </from>
+       </div>
+    </div>
+
+<div>
+    <args asp-action

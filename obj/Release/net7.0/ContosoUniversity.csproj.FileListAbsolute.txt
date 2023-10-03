@@ -1,0 +1,8 @@
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.csproj.AssemblyReference.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.AssemblyInfoInputs.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.AssemblyInfo.cs
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.csproj.CoreCompileInputs.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.RazorAssemblyInfo.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Release/net7.0/ContosoUniversity.RazorAssemblyInfo.cs

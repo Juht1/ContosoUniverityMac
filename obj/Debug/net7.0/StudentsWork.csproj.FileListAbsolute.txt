@@ -1,0 +1,8 @@
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.csproj.AssemblyReference.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.AssemblyInfoInputs.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.AssemblyInfo.cs
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.csproj.CoreCompileInputs.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.MvcApplicationPartsAssemblyInfo.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.RazorAssemblyInfo.cache
+/Users/kristjanjuht/Projects/Students/Students/obj/Debug/net7.0/StudentsWork.RazorAssemblyInfo.cs
